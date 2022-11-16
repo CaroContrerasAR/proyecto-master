@@ -8,8 +8,8 @@
 
 /* estilos generales */
 
-body{
-    background-color:#ECEEF3;
+body{ background-color: black;
+    /*background-color:#ECEEF3;*/
     font-family: 'Roboto', sans-serif;
 }
 
